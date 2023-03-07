@@ -1,1 +1,14 @@
-print("hello")
+#print("hello")
+
+#msg="heheheh"
+#print(msg)
+
+#msg1="hello"
+#print(msg1)
+
+name = "charon charon"
+print(name.title())
+print(name.lower())
+print(name.upper())
+
+
