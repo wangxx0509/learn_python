@@ -2,3 +2,35 @@ first_name = "ada"
 last_name = "lovepeace"
 full_name = f"{first_name} {last_name}"
 print(f"hello,{full_name.title()}!")
+
+c="charon"
+s="sharon"
+cs=f"{c} {s}"
+msg=cs
+print(cs)
+print(f"hello,{cs.title()}")
+print(msg)
+
+name="Eric"
+print("hello"+" "+name+","+"would you like to learn python")
+
+w="wanG"
+print(w.upper())
+print(w.lower())
+print(w.title())
+
+famous_person="Albert Einstein"
+message='"A person who xxxxx new"'
+print(famous_person+" once said "+message)
+
+name1='  wang  '
+print(name1.lstrip())
+print(name1.rstrip())
+print(name1.strip())
+
+add=2+28+78
+print(add)
+
+age=27
+message=" ""happy "+str(age)+"rd Birthday"
+print(message)
