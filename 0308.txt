@@ -34,3 +34,9 @@ print(add)
 age=27
 message=" ""happy "+str(age)+"rd Birthday"
 print(message)
+
+a=0.1+0.3+0.2
+print(a)
+
+b=4/2
+print(b)
